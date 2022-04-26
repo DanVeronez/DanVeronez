@@ -1,7 +1,7 @@
-## Olá! Eu sou o Daniel Veronez 👋
+## Olá! Sou o Daniel Veronez 👋
 
-- 🔭 Hoje trabalho com Desenvolvimento de Sistemas
-- 🌱 Estudando Python
+- 🔭 Hoje trabalho com Desenvolvimento Back-End JAVA
+- 🌱 Estudando JAVA
 
 <div>
   <a href="https://github.com/DanVeronez">
@@ -11,8 +11,8 @@
   
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C" height="43" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
