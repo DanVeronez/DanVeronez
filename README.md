@@ -1,7 +1,7 @@
 ## Olá! Sou o Daniel Veronez 👋
 
 - 🔭 Hoje trabalho com Desenvolvimento Back-End JAVA
-- 🌱 Estudando JAVA
+- 🌱 Estudando JAVA, APIs e Spring.
 
 <div>
   <a href="https://github.com/DanVeronez">
